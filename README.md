@@ -1,5 +1,4 @@
-# Capstone Project - Module 2  
-**Identifying Customer Segmentation for Business Optimization**  
+ **Identifying Customer Segmentation for Business Optimization**  
 oleh: Ardinata Tambun
 
 ## 📌 Tujuan Proyek
